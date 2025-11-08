@@ -40,20 +40,14 @@ I’m passionate about **automation**, **intelligent systems**, and creating too
 
 ## 📊 GitHub Stats  
 
-![Yahya's GitHub stats](https://github-readme-stats.vercel.app/api?username=yahyaghazi&show_icons=true&theme=radical&show_icons=true&include_all_commits=true)
+## 📊 GitHub Stats & Activity  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yahyaghazi&layout=compact&theme=radical)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=yahyaghazi&theme=radical)](https://git.io/streak-stats)
-
+[![Yahya's GitHub stats](https://github-readme-stats.vercel.app/api?username=yahyaghazi&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true)](https://github.com/yahyaghazi)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yahyaghazi&layout=compact&theme=tokyonight&hide=html,css)](https://github.com/yahyaghazi)
+[![GitHub Streak](https://streak-stats.demolab.com?user=yahyaghazi&theme=tokyonight)](https://git.io/streak-stats)
+[![trophy](https://github-profile-trophy.vercel.app/?username=yahyaghazi&theme=tokyonight&margin-w=10&margin-h=10&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yahyaghazi&theme=react-dark)
 ![Snake animation](https://raw.githubusercontent.com/yahyaghazi/yahyaghazi/output/github-contribution-grid-snake.svg)
-
-![Yahya's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yahyaghazi&theme=react-dark)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=yahyaghazi&theme=radical&margin-w=10&margin-h=10&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&author=yahyaghazi&layout=compact)
-
 
 ---
 
