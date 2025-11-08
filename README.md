@@ -23,9 +23,10 @@ I’m passionate about **automation**, **intelligent systems**, and creating too
 ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=java&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![AutoDesk](https://img.shields.io/badge/-AutoDesk-1C2C2E?style=flat-square&logo=autodesk&logoColor=white)
+![AutoCAD](https://img.shields.io/badge/-AutoCAD-1C2C2E?style=flat-square&logo=autodesk&logoColor=white)
 ![Revit](https://img.shields.io/badge/-Revit-0078D7?style=flat-square&logo=autodesk&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
@@ -39,8 +40,20 @@ I’m passionate about **automation**, **intelligent systems**, and creating too
 
 ## 📊 GitHub Stats  
 
-![Yahya's GitHub stats](https://github-readme-stats.vercel.app/api?username=yahyaghazi&show_icons=true&theme=radical)
+![Yahya's GitHub stats](https://github-readme-stats.vercel.app/api?username=yahyaghazi&show_icons=true&theme=radical&show_icons=true&include_all_commits=true)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yahyaghazi&layout=compact&theme=radical)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=yahyaghazi&theme=radical)](https://git.io/streak-stats)
+
+![Snake animation](https://raw.githubusercontent.com/yahyaghazi/yahyaghazi/output/github-contribution-grid-snake.svg)
+
+![Yahya's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yahyaghazi&theme=react-dark)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=yahyaghazi&theme=radical&margin-w=10&margin-h=10&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&author=yahyaghazi&layout=compact)
+
 
 ---
 
