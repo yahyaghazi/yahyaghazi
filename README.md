@@ -47,7 +47,7 @@ I’m passionate about **automation**, **intelligent systems**, and creating too
 [![GitHub Streak](https://streak-stats.demolab.com?user=yahyaghazi&theme=tokyonight)](https://git.io/streak-stats)
 [![trophy](https://github-profile-trophy.vercel.app/?username=yahyaghazi&theme=tokyonight&margin-w=10&margin-h=10&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yahyaghazi&theme=react-dark)
-![Snake animation](https://raw.githubusercontent.com/yahyaghazi/yahyaghazi/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/yahyaghazi/yahyaghazi/blob/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
